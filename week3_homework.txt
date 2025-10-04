@@ -1,0 +1,3 @@
+nickname: Sheldon
+desired income: 180,000 USD
+Group Leader: Jacques D Payne
